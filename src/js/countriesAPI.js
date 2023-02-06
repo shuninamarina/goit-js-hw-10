@@ -1,4 +1,4 @@
-const BASE_URL = 'https://restcountries.com/v3.1/name';
+const BASE_URL = 'https://restcountries.com/v3.1/name/';
 
 const filter = 'fields=name,capital,population,flags,languages';
 
